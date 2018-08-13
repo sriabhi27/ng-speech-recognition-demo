@@ -1,0 +1,11 @@
+{
+  "name": "ng-speech-recognition-demo",
+  "integrations": {},
+  "pro_id": "b2e8b04c",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
